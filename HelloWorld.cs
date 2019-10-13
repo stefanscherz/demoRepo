@@ -10,7 +10,7 @@ namespace demoRepo
         static void Main(string[] args)
         {
             //Print Hello World
-            //This is another comment
+            Console.WriteLine("First program");
             Console.WriteLine("Hello World!");
         }
     }
